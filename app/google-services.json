@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "645554331053",
+    "firebase_url": "https://firebeacon-d2de1.firebaseio.com",
+    "project_id": "firebeacon-d2de1",
+    "storage_bucket": "firebeacon-d2de1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645554331053:android:035a77e53835e670e81524",
+        "android_client_info": {
+          "package_name": "com.mr_mir.firebeacon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "645554331053-fpb4i2nfo2d6fkhkfc5f5jpbi0j9v57g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwObN9O_Dm6_upb6726aKoEEmN1mSjohw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "645554331053-fpb4i2nfo2d6fkhkfc5f5jpbi0j9v57g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
